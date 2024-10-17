@@ -4,8 +4,8 @@ import Footer from '../Footer/Footer'
 import AOS from "aos";
 import "aos/dist/aos.css";
 import axios from 'axios';
-import backgroundImage from '../../assets/contact.jpeg'
-import img from '../../assets/contact4.jpeg'
+import backgroundImage from '../../assets/contactbanner.jpeg'
+import img from '../../assets/contactbanner1.jpeg'
 import Testimonials from "../Testimonials/Testimonials";
 
 export default function Contact() {
